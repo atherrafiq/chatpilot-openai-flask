@@ -2,8 +2,6 @@
 
 Welcome to a smart chatbot experience, built with Flask and supercharged by OpenAI's API. This project brings conversational AI to life using intuitive design and powerful NLP models. Whether you're exploring customer service automation, personal assistants, or just experimenting with generative AI, this chatbot is built to get you started quickly and efficiently.
 
-![Chatbot Interface](screenshot.png)
-
 ## ⚙️ Requirements
 
 Before running the app, make sure you have the following:
